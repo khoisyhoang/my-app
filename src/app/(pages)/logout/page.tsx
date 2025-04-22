@@ -1,8 +1,9 @@
 
-export default function Home() {
-  return (
-    <>
-      This is home duh
-    </>
-  )
+export default function Logout() {
+
+    return (
+        <>  
+            Logout
+        </>
+    );
 }
